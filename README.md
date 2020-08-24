@@ -30,11 +30,16 @@ Our app will help users to track their health and wellness progress using step c
 ## Budget
 
 
-## Key Stakeholders
+## Roles
 | Client  | Dr. Rhonda Beemer  |
 |---|---|
-|  Sponsor |   |
 | Project Manager  | Ravi Teja Pagidoju  |
+| DB Administrator | Gopichand Bhandarupalli |
+| Team Lead | Sowjanya Janapatla |
+| Full stack Developer | Bhanu Prakash Thota |
+| Full Stack Developer | Navya Devineni |
+| Full Stack Developer | Sindhu Rani |
+
 
 ## Evaluation
 
