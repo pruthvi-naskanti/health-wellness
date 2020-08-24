@@ -82,7 +82,8 @@ FOR each TARGET, The Health wellness would like to store TARGET_NAME,TARGET_DESC
 
 FOR each CHALLENGE_NAME, The HEALTH WELLNESS would like to store CHALLENGE_NAME,designer,date_created,date_last_accessed.
 
-
+## Link to Sample Input Data for Database
+[Sample Data File](https://github.com/RaviTeja444/health-wellness/blob/master/GDP_Sample_Input_data.xlsx)
 ## APP_UX Design
 [APP LINK](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=1%3A2&scaling=scale-down)
 
