@@ -57,6 +57,32 @@ We have one epic and one user story under the epic.Below is the link for Epic.
 ## Entity Relationship Diagram
 ![ERD](https://github.com/RaviTeja444/health-wellness/blob/master/GDP1.png)
 
+## RELATIONS:
+
+USER(UserId,EMAIL,USER_NAME,USER_ROLE,PASSWORD,DATE CREATED,DATE_LAST_ACCESSED,HEIGHT,WEIGHT,IS DIABETES,AGE,GENER)
+GROUP (GroupId,UserId, NAME, CREATOR, DATE_CREATED, DATE_LAST_EDITED)
+FK UserId USER
+
+## Business Rules for the ER Diagram:
+
+A certain HEALTH WELLNEESS is interested in storing information about 
+USER,DAILYLEVEL,USER_POINTS,CHALLENGE_NAME,GROUP_MEMBER,GROUP AND TARGET.
+
+For each USER,The HEALTH WELLNESS would like to store a Unique UserId, EMAIL,USER_NAME,USER_ROLE,PASSWORD,DATE CREATED,DATE_LAST_ACCESSED,HEIGHT,WEIGHT,IS DIABETES,AGE,GENER.
+
+For each GROUP,The Health wellness would like to store a Group unique Id,name,Creator and Date_Created,Date_Last_EDited.
+
+FOR each Group_Member, The Health wellness  would like to store DATE_INVITED,DATE_ACCEPTED_INVITE,DATE_REJECTED_INVITE,DATE_LEFT_GROUP.
+
+FOR each DAILYLEVEL, The HEALTH WELLNES would like to store UserId,step count, Hydration_level,Sleep_hours,Fruits_consumed,Calories_consumed,OTHERS,Date_of_measurement
+
+FOR each USER_POINTS, The HEALTH WELLNESS would like to store USER POINTS.
+
+FOR each TARGET, The Health wellness would like to store TARGET_NAME,TARGET_DESCRIPTION AND TARGET_NUMERICAL_GOAL.
+
+FOR each CHALLENGE_NAME, The HEALTH WELLNESS would like to store CHALLENGE_NAME,designer,date_created,date_last_accessed.
+
+
 ## APP_UX Design
 [APP LINK](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=1%3A2&scaling=scale-down)
 
