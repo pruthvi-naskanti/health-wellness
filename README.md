@@ -1,11 +1,11 @@
-# health-wellness
-healthAndWellness is a digital health and wellness platform that provides services such as calorie tracking, one-on-one nutrition and fitness coaching, and diet and workout plans. Developed for both Android and iOS platforms, the app takes a holistic lifestyle tracking approach to keep users engaged and motivated.
+# Walk Tracker
+WalkTracker is a digital health and wellness platform that provides services such as calorie tracking, one-on-one nutrition and fitness coaching, and diet and workout plans. Developed for both Android and iOS platforms, the app takes a holistic lifestyle tracking approach to keep users engaged and motivated.
 
 ## Link to Hosted Page
 [Click here](https://raviteja444.github.io/health-wellness/)
 
 ## Statement of purpose
-We wish to use the popularity of mobile technology to provide a health promotional service assisting others in tracking their health and wellness progress. We are looking for an application that uses mobile devices to encourage users to provide health-related data through fun group health and wellness challenges, while also being able to share results.
+We wish to provide a free to download and use mobile application which provides a health promotional service assisting users to track their health and wellness progress. We plan to develop a software that helps to see better results in weight loss, building muscles, toning up, or controlling medical conditions. Premium plans along with personal coaching with fun health group and wellness challenges, while also being able to share results.
 
 ## Overview
 Our app will help users to track their health and wellness progress using step count,.We will be providing points based on the steps count.The rewarded points can be used to buy products like Our University T-Shirts,Caps.
