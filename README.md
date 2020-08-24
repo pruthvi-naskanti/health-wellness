@@ -62,6 +62,31 @@ We have one epic and one user story under the epic.Below is the link for Epic.
 
 ## Login Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/Loginpage.png)
+
+## Forgot Page
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Forgotpasswordpage.png)
+
+## Create Account Page
+![](https://github.com/RaviTeja444/health-wellness/blob/master/create%20account%20page.png)
+
+## Step Count
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Step%20count%20page.png)
+
+## Excercise
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Excercise%20page.png)
+
+## Points Page
+![](https://github.com/RaviTeja444/health-wellness/blob/master/points%20page.png)
+
+## Market
+![](https://github.com/RaviTeja444/health-wellness/blob/master/market%20page.png)
+
+## Group Challenge
+![](https://github.com/RaviTeja444/health-wellness/blob/master/challenge%20page.png)
+
+## Profile Settings
+![](https://github.com/RaviTeja444/health-wellness/blob/master/profile%20settings.png)
+
    
 
 
