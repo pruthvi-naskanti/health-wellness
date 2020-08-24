@@ -1,6 +1,9 @@
 # health-wellness
 Application helps to track users health and wellness
 
+## Link to Hosted Page
+[Click here](https://raviteja444.github.io/health-wellness/)
+
 ## Statement of purpose
 We wish to use the popularity of mobile technology to provide a health promotional service assisting others in tracking their health and wellness progress. We are looking for an application that uses mobile devices to encourage users to provide health-related data through fun group health and wellness challenges, while also being able to share results.
 
@@ -16,7 +19,7 @@ Our app will help users to track their health and wellness progress using step c
 [JIRA Link](https://health-wellness.atlassian.net/secure/RapidBoard.jspa?rapidView=1&view=planning.nodetail&selectedIssue=HEAL-3&issueLimit=100)
 
 ## Epics / User Stories / Tasks 
-[EPIC Link](https://health-wellness.atlassian.net/browse/HEAL-2)
+[EPIC Link](https://health-wellness.atlassian.net/browse/HEAL-2).
 We have one epic and one user story under the epic.Below is the link for Epic.
 
 
