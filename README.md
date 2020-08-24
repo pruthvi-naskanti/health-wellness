@@ -43,6 +43,9 @@ Our app will help users to track their health and wellness progress using step c
 [EPIC Link](https://health-wellness.atlassian.net/browse/HEAL-2).
 We have one epic and one user story under the epic.Below is the link for Epic.
 
+## Entity Relationship Diagram
+![ERD](https://github.com/RaviTeja444/health-wellness/blob/master/GDP1.png)
+
 
 
 
