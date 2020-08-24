@@ -5,7 +5,7 @@ WalkTracker is a digital health and wellness platform that provides services suc
 [Click here](https://raviteja444.github.io/health-wellness/)
 
 ## Statement of purpose
-We wish to provide a free to download and use mobile application which provides a health promotional service assisting users to track their health and wellness progress. We plan to develop a software that helps to see better results in weight loss, building muscles, toning up, or controlling medical conditions. Premium plans along with personal coaching with fun health group and wellness challenges, while also being able to share results.
+WalkTracker is a free to download and use mobile application which provides a health promotional service assisting users to track their health and wellness progress. We plan to develop a software that helps to see better results in weight loss, building muscles, toning up, or controlling medical conditions. Premium plans along with personal coaching with fun health group and wellness challenges, while also being able to share results.
 
 ## Objective
 Having a fit and healthy body is everyone's dream, but it has somehow not been everyone's cup of tea. Between 2017 and 2018, the National Health and Nutrition Examination Survey observes 1 out of every 4 children are suffering from Obesity, also obesity is linked to more than 60 chronic diseases and there is epidemic of obesity around the world.
