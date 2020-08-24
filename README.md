@@ -23,9 +23,12 @@ Our app will help users to track their health and wellness progress using step c
 
 ## Scope of Work
 
+
 ## Timeframe
 
+
 ## Budget
+
 
 ## Key Stakeholders
 | Client  | Dr. Rhonda Beemer  |
