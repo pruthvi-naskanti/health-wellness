@@ -21,6 +21,21 @@ Our app will help users to track their health and wellness progress using step c
 2. Users who gained points which can be used to buy products in our App market.
 3. The user statistical data can be used to predict users health prior to attack.
 
+## Scope of Work
+
+## Timeframe
+
+## Budget
+
+## Key Stakeholders
+| Client  | Dr. Rhonda Beemer  |
+|---|---|
+|  Sponsor |   |
+| Project Manager  | Ravi Teja Pagidoju  |
+
+## Evaluation
+
+
 ## JIRA LINK to PROJECT :
 [JIRA Link](https://health-wellness.atlassian.net/secure/RapidBoard.jspa?rapidView=1&view=planning.nodetail&selectedIssue=HEAL-3&issueLimit=100)
 
