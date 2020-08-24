@@ -46,6 +46,9 @@ We have one epic and one user story under the epic.Below is the link for Epic.
 ## Entity Relationship Diagram
 ![ERD](https://github.com/RaviTeja444/health-wellness/blob/master/GDP1.png)
 
+## APP_UX Design
+[APP LINK](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=1%3A2&scaling=scale-down)
+
 
 
 
