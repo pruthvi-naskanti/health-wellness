@@ -1,5 +1,5 @@
 # health-wellness
-Application helps to track users health and wellness
+healthAndWellness is a digital health and wellness platform that provides services such as calorie tracking, one-on-one nutrition and fitness coaching, and diet and workout plans. Developed for both Android and iOS platforms, the app takes a holistic lifestyle tracking approach to keep users engaged and motivated.
 
 ## Link to Hosted Page
 [Click here](https://raviteja444.github.io/health-wellness/)
