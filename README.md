@@ -56,6 +56,12 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 [EPIC Link](https://health-wellness.atlassian.net/browse/HEAL-2).
 We have one epic and one user story under the epic.Below is the link for Epic.
 
+## Sprint 1(Active)
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Sprint1.PNG)
+
+## Sprint 2(Future)
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Sprint2.PNG)
+
 ## Entity Relationship Diagram
 ![ERD](https://github.com/RaviTeja444/health-wellness/blob/master/GDP1.png)
 
