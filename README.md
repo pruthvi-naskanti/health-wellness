@@ -31,6 +31,10 @@ Our app will help users to track their health and wellness progress using step c
 
 
 ## Budget
+The project budget includes labor costs, material acquisition and operating costs.
+
+
+Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health-wellness/blob/master/CostEstimate.xlsx)
 
 
 ## Roles
