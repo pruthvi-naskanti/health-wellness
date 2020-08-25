@@ -64,12 +64,6 @@ We have one epic and one user story under the epic.Below is the link for Epic.
 ## Entity Relationship Diagram
 ![ERD](https://github.com/RaviTeja444/health-wellness/blob/master/GDP1_ERD.png?raw=true)
 
-## RELATIONS:
-
-USER(UserId,EMAIL,USER_NAME,USER_ROLE,PASSWORD,DATE CREATED,DATE_LAST_ACCESSED,HEIGHT,WEIGHT,ISDIABETES,AGE,GENER)
-GROUP (GroupId,UserId, NAME, CREATOR, DATE_CREATED, DATE_LAST_EDITED)
-FK UserId USER
-
 ## Business Rules for the ER Diagram:
 
 A certain HEALTH WELLNEESS is interested in storing information about 
