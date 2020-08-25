@@ -65,7 +65,7 @@ We have one epic and one user story under the epic.Below is the link for Epic.
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/Sprint2.PNG?raw=true)
 
 ## Entity Relationship Diagram
-![ERD](https://github.com/RaviTeja444/health-wellness/blob/master/GDP1.png?raw=true)
+![ERD](https://github.com/RaviTeja444/health-wellness/blob/master/GDP1_ERD.png?raw=true)
 
 ## RELATIONS:
 
