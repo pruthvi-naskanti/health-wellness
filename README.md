@@ -139,6 +139,13 @@ FOR each CHALLENGE_NAME, The HEALTH WELLNESS would like to store CHALLENGE_NAME,
 ## Profile Settings
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/profile%20settings.png)
 
+## Risk & Mitigation
+* As we are maintaining health data,we plan for safe and secure database to avoid risk of data loss.
+* We maintain high secure Authentication for the users to avoid risk of hacking.
+
+## References
+[Google](https://www.google.com/)
+
    
 
 
