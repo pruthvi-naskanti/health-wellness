@@ -41,7 +41,7 @@ Our app will help users to track their health and wellness progress using step c
 | Team Lead | Sowjanya Janapatla |
 | Full stack Developer | Bhanu Prakash Thota |
 | Full Stack Developer | Navya Devineni |
-| Full Stack Developer | Sindhu Rani |
+| Full Stack Developer | Sindhu Rani |   
 
 
 ## Evaluation
