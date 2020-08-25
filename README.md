@@ -25,16 +25,13 @@ Our app will help users to track their health and wellness progress using step c
 3. The user statistical data can be used to predict users health prior to attack.
 
 
-## Schedule
-
-
 ## Budget
 The project budget includes labor costs, material acquisition and operating costs.
 
 
 Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health-wellness/blob/master/CostEstimate.xlsx)
 
-![](https://github.com/RaviTeja444/health-wellness/blob/master/CostEstimate.PNG?raw=true)
+![](https://github.com/RaviTeja444/health-wellness/blob/master/costEstimate.PNG?raw=true)
 
 
 ## Roles
@@ -95,7 +92,7 @@ FOR each CHALLENGE_NAME, The HEALTH WELLNESS would like to store CHALLENGE_NAME,
 ## Link to Sample Input Data for Database
 [Sample Data File](https://github.com/RaviTeja444/health-wellness/blob/master/GDP_Sample_Input_data.xlsx)
 
-## Link to approximate schedule
+## Schedule
 ![Schedule Management](https://github.com/navyadevineni/health/blob/master/Screenshot%20(1).png?raw=true)
 
 ## Technology Stack
