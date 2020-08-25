@@ -90,7 +90,7 @@ FOR each CHALLENGE_NAME, The HEALTH WELLNESS would like to store CHALLENGE_NAME,
 [Sample Data File](https://github.com/RaviTeja444/health-wellness/blob/master/GDP_Sample_Input_data.xlsx)
 
 ## Link to approximate schedule
-![Schedule Management](https://nwmissouri.instructure.com/files/4010188/download?download_frd=1)
+![Schedule Management](https://github.com/navyadevineni/health/blob/master/Screenshot%20(1).png?raw=true)
 
 ## APP_UX Design
 [APP LINK](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=1%3A2&scaling=scale-down)
