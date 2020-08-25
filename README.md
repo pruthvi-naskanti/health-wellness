@@ -96,6 +96,19 @@ FOR each CHALLENGE_NAME, The HEALTH WELLNESS would like to store CHALLENGE_NAME,
 ## Link to approximate schedule
 ![Schedule Management](https://github.com/navyadevineni/health/blob/master/Screenshot%20(1).png?raw=true)
 
+## Technology Stack
+* Nodejs : Its an open source cross platform javascript runtime environment that executes javascript code without browser.
+
+* HTML : Its an standard markup language used to design pages to display in broswer.
+
+* CSS : Cascading styling sheets helps to style HTML Elements.
+
+* Javascript : Javascript is a programming language gets executed in browser.
+
+* Heroku : Cloud hosting platform to host our PWA in free tier.
+
+* Github : Cloud Repository Platform used to store code
+  
 ## APP_UX Design
 [APP LINK](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=1%3A2&scaling=scale-down)
 
