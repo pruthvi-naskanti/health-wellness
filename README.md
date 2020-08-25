@@ -4,6 +4,9 @@ WalkTracker is a digital health and wellness platform that provides services suc
 ## Link to Hosted Page
 [Click here](https://raviteja444.github.io/health-wellness/)
 
+## Link to Repository
+[Click_here](https://github.com/RaviTeja444/health-wellness)
+
 ## Statement of purpose
 WalkTracker is a free to download and use mobile application which provides a health promotional service assisting users to track their health and wellness progress. We plan to develop a software that helps to see better results in weight loss, building muscles, toning up, or controlling medical conditions. Premium plans along with personal coaching with fun health group and wellness challenges, while also being able to share results.
 
@@ -30,11 +33,16 @@ Our app will help users to track their health and wellness progress using step c
 ## Budget
 
 
-## Key Stakeholders
+## Roles
 | Client  | Dr. Rhonda Beemer  |
 |---|---|
-|  Sponsor |   |
 | Project Manager  | Ravi Teja Pagidoju  |
+| DB Administrator | Gopichand Bhandarupalli |
+| Team Lead | Sowjanya Janapatla |
+| Full stack Developer | Bhanu Prakash Thota |
+| Full Stack Developer | Navya Devineni |
+| Full Stack Developer | Sindhu Rani |
+
 
 ## Evaluation
 
@@ -49,8 +57,63 @@ We have one epic and one user story under the epic.Below is the link for Epic.
 ## Entity Relationship Diagram
 ![ERD](https://github.com/RaviTeja444/health-wellness/blob/master/GDP1.png)
 
+## RELATIONS:
+
+USER(UserId,EMAIL,USER_NAME,USER_ROLE,PASSWORD,DATE CREATED,DATE_LAST_ACCESSED,HEIGHT,WEIGHT,IS DIABETES,AGE,GENER)
+GROUP (GroupId,UserId, NAME, CREATOR, DATE_CREATED, DATE_LAST_EDITED)
+FK UserId USER
+
+## Business Rules for the ER Diagram:
+
+A certain HEALTH WELLNEESS is interested in storing information about 
+USER,DAILYLEVEL,USER_POINTS,CHALLENGE_NAME,GROUP_MEMBER,GROUP AND TARGET.
+
+For each USER,The HEALTH WELLNESS would like to store a Unique UserId, EMAIL,USER_NAME,USER_ROLE,PASSWORD,DATE CREATED,DATE_LAST_ACCESSED,HEIGHT,WEIGHT,IS DIABETES,AGE,GENER.
+
+For each GROUP,The Health wellness would like to store a Group unique Id,name,Creator and Date_Created,Date_Last_EDited.
+
+FOR each Group_Member, The Health wellness  would like to store DATE_INVITED,DATE_ACCEPTED_INVITE,DATE_REJECTED_INVITE,DATE_LEFT_GROUP.
+
+FOR each DAILYLEVEL, The HEALTH WELLNES would like to store UserId,step count, Hydration_level,Sleep_hours,Fruits_consumed,Calories_consumed,OTHERS,Date_of_measurement
+
+FOR each USER_POINTS, The HEALTH WELLNESS would like to store USER POINTS.
+
+FOR each TARGET, The Health wellness would like to store TARGET_NAME,TARGET_DESCRIPTION AND TARGET_NUMERICAL_GOAL.
+
+FOR each CHALLENGE_NAME, The HEALTH WELLNESS would like to store CHALLENGE_NAME,designer,date_created,date_last_accessed.
+
+## Link to Sample Input Data for Database
+[Sample Data File](https://github.com/RaviTeja444/health-wellness/blob/master/GDP_Sample_Input_data.xlsx)
 ## APP_UX Design
 [APP LINK](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=1%3A2&scaling=scale-down)
+
+## Login Page
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Loginpage.png)
+
+## Forgot Page
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Forgotpasswordpage.png)
+
+## Create Account Page
+![](https://github.com/RaviTeja444/health-wellness/blob/master/create%20account%20page.png)
+
+## Step Count
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Step%20count%20page.png)
+
+## Excercise
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Excercise%20page.png)
+
+## Points Page
+![](https://github.com/RaviTeja444/health-wellness/blob/master/points%20page.png)
+
+## Market
+![](https://github.com/RaviTeja444/health-wellness/blob/master/market%20page.png)
+
+## Group Challenge
+![](https://github.com/RaviTeja444/health-wellness/blob/master/challenge%20page.png)
+
+## Profile Settings
+![](https://github.com/RaviTeja444/health-wellness/blob/master/profile%20settings.png)
+
    
 
 
