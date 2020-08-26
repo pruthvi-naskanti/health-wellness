@@ -306,6 +306,6 @@ We have one epic and one user story under the epic.Below is the link for Epic.
 [Google](https://www.google.com/)
 
 ## Original RFP Link
-[](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
+[Click Here](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
 
 
