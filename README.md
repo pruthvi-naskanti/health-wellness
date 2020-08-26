@@ -25,7 +25,7 @@ Our app will help users to track their health and wellness progress using step c
 3. The user statistical data can be used to predict users health prior to attack.
 
 ## Scope of Work
-
+ 
 
 ## Timeframe
 
