@@ -53,26 +53,20 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 
 ## Epics / User Stories / Tasks 
 [EPIC Link](https://health-wellness.atlassian.net/browse/HEAL-2).
-1. Epic -1
-2. User Stories -23 (6 for each sprint in GDP1 and 5 in Backlog for GDP2)
+We have one epic and one user story under the epic.Below is the link for Epic.
 
-## Sprint 1(GDP1)
-![](https://github.com/RaviTeja444/health-wellness/blob/master/mySprint1.PNG?raw=true)
+## Sprint 1(Active)
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Sprint1.PNG?raw=true)
 
-## Sprint 2(GDP1)
-![](https://github.com/RaviTeja444/health-wellness/blob/master/mySprint2.PNG?raw=true)
-
-## Sprint 3(GDP1)
-![](https://github.com/RaviTeja444/health-wellness/blob/master/mySprint3.PNG?raw=true)
-
-## Backlog for (GDP2)
-![](https://github.com/RaviTeja444/health-wellness/blob/master/GDP2_BL.PNG?raw=true)
-
-## Acceptance Criteria Sample
-![](https://github.com/RaviTeja444/health-wellness/blob/master/Acceptance_Cri.PNG?raw=true)
+## Sprint 2(Future)
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Sprint2.PNG?raw=true)
 
 ## Entity Relationship Diagram
 ![ERD](https://github.com/RaviTeja444/health-wellness/blob/master/GDP1_ERD.png?raw=true)
+
+
+
+
 
 ## Business Rules for the ER Diagram:
 
@@ -83,15 +77,45 @@ For each USER,The HEALTH WELLNESS would like to store a Unique UserId, EMAIL,USE
 
 For each GROUP,The Health wellness would like to store a Group unique Id,name,Creator and Date_Created,Date_Last_EDited.
 
-FOR each Group_Member, The Health wellness  would like to store DATE_INVITED,DATE_ACCEPTED_INVITE,DATE_REJECTED_INVITE,DATE_LEFT_GROUP.
+FOR each Group_Member, The Health wellness  would like to store a unique GROUP_MEMBER_ID, DATE_INVITED,DATE_ACCEPTED_INVITE,DATE_REJECTED_INVITE,DATE_LEFT_GROUP.
 
-FOR each DAILYLEVEL, The HEALTH WELLNES would like to store UserId,step count, Hydration_level,Sleep_hours,Fruits_consumed,Calories_consumed,OTHERS,Date_of_measurement
+FOR each DAILYLEVEL, The HEALTH WELLNES would like to store a unique DAILYLEVEL_ID  UserId,step count, Hydration_level,Sleep_hours,Fruits_consumed,Calories_consumed,OTHERS,Date_of_measurement
 
-FOR each USER_POINTS, The HEALTH WELLNESS would like to store USER POINTS.
+FOR each USER_POINTS, The HEALTH WELLNESS would like to store a unique USER_POINTS_ID,USER POINTS.
 
-FOR each TARGET, The Health wellness would like to store TARGET_NAME,TARGET_DESCRIPTION AND TARGET_NUMERICAL_GOAL.
+FOR each TARGET, The Health wellness would like to store a unique TARGET_ID,TARGET_NAME,TARGET_DESCRIPTION AND TARGET_NUMERICAL_GOAL.
 
-FOR each CHALLENGE_NAME, The HEALTH WELLNESS would like to store CHALLENGE_NAME,designer,date_created,date_last_accessed.
+FOR each CHALLENGE_NAME, The HEALTH WELLNESS would like to store a unique CHALLENGE_ID CHALLENGE_NAME,designer,date_created,date_last_accessed.
+
+## RELATIONS FOR ER-DIAGRAM:
+
+USER(UserId,USER_NAME,USER_ROLE,EMAIL,PASSWORD,DATE CREATED,DATE_LAST_ACCESSED,HEIGHT,WEIGHT,IS DIABETES,AGE,GENDER)
+
+USER_POINTS(USER_POINTS_ID,UserId,User_points)
+
+FK UserId->USER
+
+GROUP(GroupId,NAME,CREATOR,DATE_CREATED,DATE_LAST_EDITED)
+
+FK CREATOR->USER
+
+GROUP_MEMBER(GROUP_MEMBER_ID,GroupId,DATE_INVITED,DATE_ACCEPTED_INVITED,DATE_LEFT_GROUP)
+
+FK GroupId-> GROUP
+
+DAILYLEVEL(DAILYLEVEL_ID,UserId,step count,Hydration_level,Sleep_Hours,Fruits_consumed,Vegetable_consumed,Calories_consumed,OTHERS,Date_of_measurement)
+
+FK UserId->USER
+
+CHALLENGE_NAME(CHALLENGE_ID,UserId,CHALLENGE NAME,DATE_CREATED,DESIGNER,DTAE_LEFT_ACCESSED)
+
+FK UserId->USER
+
+TARGET(TARGET_ID,TARGET_NAME,TARGET_DESCRIPTION,CHALLENGE_ID,TARGET_NUMERICAL_GOAL)
+
+FK CHALLENGE_ID-> CHALLENGE
+
+
 
 ## Link to Sample Input Data for Database
 [Sample Data File](https://github.com/RaviTeja444/health-wellness/blob/master/GDP_Sample_Input_data.xlsx)
