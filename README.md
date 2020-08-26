@@ -64,7 +64,17 @@ We have one epic and one user story under the epic.Below is the link for Epic.
 ## Entity Relationship Diagram
 ![ERD](https://github.com/RaviTeja444/health-wellness/blob/master/GDP1_ERD.png?raw=true)
 
+## Entities Description
 
+The following ER Diagram has various tables. Coming to the User table initially user want to login to the Walk tracker he/she needs create an account in the Walk Tracker. For this, User has to fill out various details in the Walk Tracker App.
+
+In the Daily Level table the step count is automatically updated in the APP while user moving.
+
+Next, User_Role column in USER table indicates whether a user is admin or not. An admin role user in the USER table can create different Groups and each group has different group members. Admin can invite various members into the Group so Group member has option to accept or else reject the invitation.All these members are stored in GROUP_MEMBER Table.
+
+Admin can create a CHALLENGE. The  Challenge_Name table have  different challenges, In that user can store challenge created date and lastly Date_LEFT_ACCESSED.Each Challenge is associated with a Target which is stored in TARGET table. The Target Table is going to stores target description and Target_numerical _Goal. Every Challenge has a Target based on the Challenge_Id.
+
+Finally the User Points is calculated based on step count stored in DAILYLEVEL table. USER_POINTS will have userid and userpoints information.
 
 
 
