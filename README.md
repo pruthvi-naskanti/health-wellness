@@ -141,7 +141,10 @@ FK CHALLENGE_ID-> CHALLENGE
 
 ## Entities Sample Data
 
-## USER ENTITY DATA
+
+## USER ENTITY TABLE DATA
+![](https://github.com/RaviTeja444/health-wellness/blob/master/User%20table.png)
+
 | UserId | User_NAME | EMAIL                  | PASSWORD   | DATE_CREATED | DATE_LAST_ACCESSED | HEIGHT | WEIGHT | IS DIABETES | AGE | GENDER |
 |--------|-----------|------------------------|------------|--------------|--------------------|--------|--------|-------------|-----|--------|
 | 101    | Timo      | Müller123@GMAIL.COM    | Greenway   | 11/9/2019    | 1/11/2019          | 5.5    | 60     | YES         | 33  | MALE   |
@@ -157,6 +160,8 @@ FK CHALLENGE_ID-> CHALLENGE
 | 111    | Lasse     | Meyer123@GMAIL.COM     | Wildwoord  | 1/8/2019     | 1/9/2019           | 6.5    | 70     | YES         | 43  | MALE   |
 
 ## USER_POINTS ENTITY DATA
+![](https://github.com/RaviTeja444/health-wellness/blob/master/user%20points.png)
+
 | UserId | USER_POINTS_ID   | User_points  |
 | ------ | ---------------- | ------------ |
 | 101    | 200              | 50           |
@@ -172,6 +177,8 @@ FK CHALLENGE_ID-> CHALLENGE
 | 111    | 210              | 60           |
 
 ## GROUP ENTITY DATA
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Group%20table.png)
+
 | GroupId | NAME      | CREATOR | DATE_CREATED | DATE_LAST_EDITED |
 | ------- | --------- | ------- | ------------- | ------------------ |
 | 201     | Müller    | 101     | 11/9/2019     | 1/11/2019          |
@@ -187,6 +194,8 @@ FK CHALLENGE_ID-> CHALLENGE
 | 201     | Wagner    | 111     | 11/19/2019    | 1/9/2019           |
 
 ## GROUP_MEMBER DATA
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Group%20member%20Table.png)
+
 | GROUP_MEMBER_ID   | DATE_INVITED | DATE_ACCEPTED_INVITE    | DATE_REJECTED_INVITE   | GroupId |
 | ----------------- | ------------- | ---------------------- | ---------------------- | ------- |
 | 301               | 11/9/2019     | 11/9/2019              | 11/10/2019             | 201     |
@@ -202,6 +211,8 @@ FK CHALLENGE_ID-> CHALLENGE
 | 311               | 11/19/2019    | 11/19/2019             | 11/20/2019             | 211     |
 
 ## DAILYLEVEL ENTITY DATA
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Dailylevel%20table.png)
+
 | STEP_COUNT | HYDRATION_LEVEL | Sleep_Hours | Fruits_consumed | Vegetable_consumed | Calories_consumed | Date_of_measurement |
 | ----------- | ---------------- | ------------ | ---------------- | ------------------- | ------------------ | --------------------- |
 | 2000        | 45               | 6            | 1                | 2                   | 1200               | 11/9/2019             |
@@ -217,6 +228,8 @@ FK CHALLENGE_ID-> CHALLENGE
 | 2020        | 55               | 8            | 4                | 1                   | 1100               | 11/19/2019            |
 
 ## CHALLENGE_NAME ENTITY DATA
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Challenge%20table.png)
+
 | DATE_LAST_ACCESSED | UserId |
 | -------------------- | ------ |
 | 1/11/2019            | 101    |
@@ -227,6 +240,8 @@ FK CHALLENGE_ID-> CHALLENGE
 | 11/11/2019           | 106    |
 
 ## TARGET ENTITY DATA
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Target%20table.png)
+
 | TARGET_ID  | TARGET_NAME              | TARGET_DESCRIPTION    | TARGET_NUMERICAL_GOAL |
 | ---------- | ------------------------ | --------------------- | ----------------------- |
 | 600        | Cycling Challenges       | 10 ROUNDS             | 10                      |
