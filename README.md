@@ -24,14 +24,6 @@ Our app will help users to track their health and wellness progress using step c
 2. Users who gained points which can be used to buy products in our App market.
 3. The user statistical data can be used to predict users health prior to attack.
 
-<<<<<<< HEAD
-## Scope of Work
- 
-
-## Timeframe
-
-=======
->>>>>>> 87543351ffc6b70ca6c59378172ff021b9bd49e3
 
 ## Budget
 The project budget includes labor costs, material acquisition and operating costs.
@@ -61,7 +53,8 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 
 ## Epics / User Stories / Tasks 
 [EPIC Link](https://health-wellness.atlassian.net/browse/HEAL-2).
-We have one epic and one user story under the epic.Below is the link for Epic.
+1. EPIC - 1
+2. USer Storys - 23
 
 ## Sprint 1(GDP1)
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/mySprint1.PNG?raw=true)
