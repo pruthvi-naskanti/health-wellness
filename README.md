@@ -68,6 +68,9 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 ## Backlog for (GDP2)
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/GDP2_BL.PNG?raw=true)
 
+## Acceptance Criteria Sample
+![](https://github.com/RaviTeja444/health-wellness/blob/master/Acceptance_Cri.PNG?raw=true)
+
 ## Entity Relationship Diagram
 ![ERD](https://github.com/RaviTeja444/health-wellness/blob/master/GDP1_ERD.png?raw=true)
 
