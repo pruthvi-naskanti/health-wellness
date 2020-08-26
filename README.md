@@ -53,7 +53,8 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 
 ## Epics / User Stories / Tasks 
 [EPIC Link](https://health-wellness.atlassian.net/browse/HEAL-2).
-We have one epic and one user story under the epic.Below is the link for Epic.
+1. Epic -1
+2. User Stories -23 (6 for each sprint in GDP1 and 5 in Backlog for GDP2)
 
 ## Sprint 1(GDP1)
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/mySprint1.PNG?raw=true)
