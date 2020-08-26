@@ -96,7 +96,7 @@ We have one epic and one user story under the epic.Below is the link for Epic.
 
 4.FOR each Group_Member, The Health wellness  would like to store a unique GROUP_MEMBER_ID, DATE_INVITED,DATE_ACCEPTED_INVITE,DATE_REJECTED_INVITE,DATE_LEFT_GROUP.
 
-5.FOR each DAILYLEVEL, The HEALTH WELLNES would like to store a unique DAILYLEVEL_ID  UserId,step count,                 Hydration_level,Sleep_hours,Fruits_consumed,Calories_consumed,OTHERS,Date_of_measurement
+5.FOR each DAILYLEVEL, The HEALTH WELLNES would like to store a unique DAILYLEVEL_ID  UserId,step    count,Hydration_level,Sleep_hours,Fruits_consumed,Calories_consumed,OTHERS,Date_of_measurement                  
 
 6.FOR each USER_POINTS, The HEALTH WELLNESS would like to store a unique USER_POINTS_ID,USER POINTS.
 
