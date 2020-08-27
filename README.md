@@ -15,7 +15,7 @@ Having a fit and healthy body is everyone's dream, but it has somehow not been e
 
 In the U.S., childhood obesity alone is estimated to cost $14 billion annually in direct health expenses. Unhealthy lifestyle and eating habits has direct impact on physical health causing damage to metabolism, which has impact on mental well-being too. Most part of the problem comes from a lack of awareness of what people are eating and how much energy they burn every day.
 
-WalkTracker is a digital technology to help people eat better, get fitter and lose weight. The primary solution is delivered via a smartphone app (iOS, Android) with a team of qualified diet/ fitness expert’s available in-app. It also allows optional integration with various tracking wearables. The funds would be used in developing AI and ML interface, so that it can service more users with fitness suggestions, healthy alternative food and task recommendations.
+WalkTracker is a digital technology to help people eat better, get fitter and lose weight. The primary solution is delivered via a smartphone app (iOS, Android, PC) with a team of qualified diet/ fitness expert’s available in-app. It also allows optional integration with various tracking wearables. The funds would be used in developing AI and ML interface, so that it can service more users with fitness suggestions, healthy alternative food and task recommendations.
 
 Our app will help users to track their health and wellness progress using step count. Also, will be providing points based on the steps count. The rewarded points can be used to buy products like Our University T-Shirts,Caps.
 
@@ -24,6 +24,10 @@ Our app will help users to track their health and wellness progress using step c
 2. Users who gained points which can be used to buy products in our App market.
 3. The user statistical data can be used to predict users health prior to attack.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b4bbf053b6d2ab7210142cea894b01221c46a58d
 ## Budget
 The project budget includes labor costs, material acquisition and operating costs.
 
@@ -52,7 +56,8 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 
 ## Epics / User Stories / Tasks 
 [EPIC Link](https://health-wellness.atlassian.net/browse/HEAL-2).
-We have one epic and one user story under the epic.Below is the link for Epic.
+1. EPIC - 1
+2. USer Storys - 23
 
 ## Sprint 1(GDP1)
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/mySprint1.PNG?raw=true)
@@ -296,7 +301,7 @@ We have one epic and one user story under the epic.Below is the link for Epic.
 ## References
 [Google](https://www.google.com/)
 
-   
-
+## Original RFP Link
+[Click Here](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
 
 
