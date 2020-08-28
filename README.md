@@ -24,10 +24,6 @@ Our app will help users to track their health and wellness progress using step c
 2. Users who gained points which can be used to buy products in our App market.
 3. The user statistical data can be used to predict users health prior to attack.
 
-<<<<<<< HEAD
-=======
-
->>>>>>> b4bbf053b6d2ab7210142cea894b01221c46a58d
 ## Budget
 The project budget includes labor costs, material acquisition and operating costs.
 
