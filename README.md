@@ -111,6 +111,7 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 2.USER_POINTS(USER_POINTS_ID,UserId,User_points)
   FK UserId->USER
   
+  
 3.GROUP(GroupId,NAME,CREATOR,DATE_CREATED,DATE_LAST_EDITED)
   FK CREATOR->USER
   
