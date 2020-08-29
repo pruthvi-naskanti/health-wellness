@@ -50,7 +50,7 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 ## JIRA LINK to PROJECT :
 [JIRA Link](https://health-wellness.atlassian.net/secure/RapidBoard.jspa?rapidView=1&view=planning.nodetail&selectedIssue=HEAL-3&issueLimit=100)
 
-## Epics / User Stories / Tasks 
+## Total number of Epics / User Stories / Tasks 
 [EPIC Link](https://health-wellness.atlassian.net/browse/HEAL-2).
 1. EPIC - 1
 2. USer Storys - 23
