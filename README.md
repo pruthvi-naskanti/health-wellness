@@ -264,7 +264,7 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 ## APP_UX Design
 [APP LINK](https://www.figma.com/proto/JuWZstQl4XFCJESZAaNcau/Untitled?node-id=1%3A2&scaling=scale-down)
 
-## Login Page
+## LogIn Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/Loginpage.png?raw=true)
 
 ## Forgot Page
@@ -273,25 +273,10 @@ Link to cost estimation: [Cost Estimation](https://github.com/RaviTeja444/health
 ## Create Account Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/create%20account%20page.png?raw=true)
 
-## Step Count
+## Step Count Page
 ![](https://github.com/RaviTeja444/health-wellness/blob/master/Step%20count%20page.png?raw=true)
 
-## Excercise
-![](https://github.com/RaviTeja444/health-wellness/blob/master/Excercise%20page.png?raw=true)
-
-## Points Page
-![](https://github.com/RaviTeja444/health-wellness/blob/master/points%20page.png?raw=true)
-
-## Market
-![](https://github.com/RaviTeja444/health-wellness/blob/master/market%20page.png?raw=true)
-
-## Group Challenge
-![](https://github.com/RaviTeja444/health-wellness/blob/master/challenge%20page.png?raw=true)
-
-## Profile Settings
-![](https://github.com/RaviTeja444/health-wellness/blob/master/profile%20settings.png?raw=true)
-
-## Risk & Mitigation
+## Risk & Mitigation 
 * As we are maintaining health data,we plan for safe and secure database to avoid risk of data loss.
 * We maintain high secure Authentication for the users to avoid risk of hacking.
 
